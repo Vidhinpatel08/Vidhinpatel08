@@ -3,12 +3,14 @@
 - 🚀 Python & Web Developer
 - 🎓 B.TECH at Sankalchand Patel College Of Engineering, 8.93 CGPA
 - 💼 Internships: 
-  - CreArt Solution: Python (Django)
+  - Prodigy InfoTech: Software Developer Intern 
   - NatRIX Software Pvt Ltd.: ReactJS
 - 💻 Projects: 
   - Voice Assistant (Python, PyQt)
   - DPRS (HTML, CSS, JS, ReactJS, MongoDB)
   - Employee Management System (Java, MySQL)
-- 📧 Let's connect: [LinkedIn](https://www.linkedin.com/in/vidhin-patel-5b0053195) | [Email](vidhin1208@gmail.com)
+  - Bhartbulletin (News App) (HTML, CSS, JS, ReactJS)
+  - TaskSaver - Todo app (HTML, CSS, JS, ReactJS, TailwindCss)
+- 📧 Let's connect: [LinkedIn](https://www.linkedin.com/in/vidhin1208) | [Email](vidhin1208@gmail.com)
 
 Explore my repos and let's code together! 🚀
